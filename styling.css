@@ -96,6 +96,14 @@ p {
       text-align: center;
       font-family: 'PT Serif' sans-serif;
     }
+.email-submit {
+    text-align: center;
+    font-family: 'PT Serif' sans-serif;
+    color: black;
+    padding: 15px;
+    line-height: 10px
+    display: inline;
+}
 footer {
     padding: 15px;
     background: #375572;
